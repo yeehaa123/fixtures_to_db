@@ -1,0 +1,2 @@
+defmodule FixturesToDb do
+end
